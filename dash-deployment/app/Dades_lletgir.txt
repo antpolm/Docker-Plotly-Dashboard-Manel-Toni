@@ -1,0 +1,4 @@
+Per problemes de mida d'arxius, no es poden publicar els arxius CSV que contenen les dades amb les quals hem treballat.
+
+El que s'ha de fer és obrir el Notebook 'limpieza_datos.ipynb'.
+En aquest Notebook es troba l'enllaç per descarregar les dades i el procediment de neteja d'aquestes dades. Així com la descàrrega de l'arxiu CSV final.
